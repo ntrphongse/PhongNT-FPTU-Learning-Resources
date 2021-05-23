@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav {
+    background-color: #03fc20;
+}
+
+nav a {
+    text-decoration: none;
+    margin: auto;
+    align-content: center;
+    color: #ffffff;
+    font-weight: 700;
+    width: 100%;
+    box-sizing: inherit;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 30%;
+    padding: 1.5% 11% 0.8% 11%;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+.row {
+    width: 100%;
+    margin: 3%;
+    height: 100px;
+}
+
+.row img {
+    display: inline-block;
+    width: 15%;
+    height: auto;
+}

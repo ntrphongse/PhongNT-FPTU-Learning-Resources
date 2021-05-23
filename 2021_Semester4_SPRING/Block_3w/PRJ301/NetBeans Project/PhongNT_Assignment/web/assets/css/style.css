@@ -1,0 +1,125 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 20, 2021, 10:32:16 PM
+    Author     : Tran Phong <phongntse150974@fpt.edu.vn>
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600;1,700;1,800&display=swap');
+
+:root {
+    --main-color: #FCF7F8;
+    --secondary-color: #fcecdd;
+    --third-color: #ffc288;
+    --four-color: #fea82f;
+    --fifth-color: #ff6701;
+    --decline-color: #A31621;
+    
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.semi-bold {
+    font-weight: 600;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.extra-bold {
+    font-weight: 800;
+}
+
+.italic {
+    font-style: italic;
+}
+
+html {
+    font-size: 16px;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    margin: 1%;
+    background-color: var(--main-color);
+    color: rgba(0,0,0,.5);
+}
+
+
+h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    background-color: var(--third-color);
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+main {
+    margin-top: 150px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer>div>p {
+    margin-top: 2%;
+    color: #6d6b6b;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    font-size: 1rem;
+}
+
+footer a {
+    text-decoration: none;
+    /* color: #ffffff; */
+    color: #6d6b6b;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: var(--third-color);
+    opacity: 0.7;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.nav-item {
+    box-sizing: content-box;
+    text-transform: uppercase;
+}
+
+.navbar {
+    background-color: var(--four-color);
+}
+
+.navbar-nav {
+    margin-top: 0;
+}
+
+@media all and (min-width: 992px) {
+    .nav-link:hover {
+        color: #000000;
+        border-bottom: 1px solid #000000;
+    }
+
+    .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+        border-bottom: 1px solid #000000;
+    }
+}
+
+.nav-link:hover {
+    color: #000000 !important;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    cursor: pointer !important;
+}

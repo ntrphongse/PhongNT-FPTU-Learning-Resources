@@ -1,0 +1,2 @@
+java ExportedManagement.Tester
+pause

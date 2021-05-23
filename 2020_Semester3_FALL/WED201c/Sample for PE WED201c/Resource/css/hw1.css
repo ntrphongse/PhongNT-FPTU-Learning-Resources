@@ -1,0 +1,44 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    text-align: center;
+    background: #c9c7c5;
+}
+
+main {
+    background: #c9c7c5;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 250%;
+    color: #fff30d;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 150%;
+    color: #a1a19c;
+}
+
+nav a {
+    background-color: #a19f9d;
+}
+
+.left {
+    display: none;
+}
+
+table {
+    margin: auto;
+}
+
+th {
+    background-color: #fff30d;
+}
+
+form#myform {
+    display: none;
+}

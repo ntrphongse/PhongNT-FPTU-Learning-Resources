@@ -1,0 +1,18 @@
+Xay dung 1 APP de quan li Nhan vien cua 1 Cty
+Nhan vien gom : ma, ten , luong CB, ngayLV
+Tai Cty Nhan Vien lam viec theo phong ban
+Nhan vien Phong Tai Chinh: co them thong tin tro cap
+Nhan Vien Phong Ke Toan: co them thong tin nam kinh nghiem
+
+
+App nay cung cap 1 menu nhu sau:
+1. Them 1 nhan vien moi
+2. Xuat DS NV
+3. Tim kiem NV dua vao Ma
+4. Xuat Bao Cao
+        4.1 Bao cao ve luong.
+        4.2 Bao cao ve ngay LV
+5. Chinh sua Thong tin NV
+6. Sap xep DS NV theo ma
+7. Thoat
+

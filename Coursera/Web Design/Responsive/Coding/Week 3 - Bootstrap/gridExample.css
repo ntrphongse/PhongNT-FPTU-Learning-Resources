@@ -1,0 +1,8 @@
+div {
+    font-size: 140%;
+}
+
+div[class$="block"] {
+    border: 1px solid black;
+    margin-top: 3%;
+}

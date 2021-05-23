@@ -1,0 +1,13 @@
+P001,Gao thom Select,125000,9,C11
+P002,Ca thu,50000,10,C09
+P004,Nuoc khoang Aquafina,5000,50,C03
+P005,Nuoc khoang Satori,5000,98,C03
+P006,Man Dai Loan,38000,10,C08
+P007,Ca rot Viet Nam,14000,53,C07
+P008,Thit heo bam dong lanh,23500,4,C10
+P009,Mirinda vi Soda Kem,8000,10,C02
+P010,Bot giat OMO,134000,12,C04
+P011,Dao bep,8700,8,C01
+P012,Thit bo,100000,5,C09
+P145,May tinh xach tay,1500257,13,C85
+P154,Laptop,12500000,56,C045

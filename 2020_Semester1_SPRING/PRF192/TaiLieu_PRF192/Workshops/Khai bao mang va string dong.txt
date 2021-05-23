@@ -1,0 +1,9 @@
+Mảng: double* a2;
+
+==> a2 = (double*) calloc(10, sizeof(double));  => Array 10 phần tử
+
+String: char* c;
+
+==> c = (char*) calloc(lengthOfString + 1, sizeof(char)); ==> String lengthOfString kí tự.
+
+==> c = (char*) malloc(lengthOfString + 1);

@@ -1,0 +1,5 @@
+C02,Nuoc giai khat
+C03,Nuoc khoang
+C07,Rau qua
+C08,Trai cay
+C85,Do dien tu

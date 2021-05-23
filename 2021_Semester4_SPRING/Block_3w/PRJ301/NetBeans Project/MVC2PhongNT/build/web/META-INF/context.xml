@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/MVC2PhongNT">
+    <Resource name="DSPhongNT" auth="Container" type="javax.sql.DataSource" 
+                username="sa" password="ngtrphong290801" 
+                driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+                url="jdbc:sqlserver://localhost:1433;databaseName=UserManagement;instanceName=PhongNT">
+        
+    </Resource>
+</Context>

@@ -1,0 +1,8 @@
+3185,"Surin","Surin","Thailand",142400
+3186,"Loei","Loei","Japan",123456
+3187,"Khorat","Nakhon Ratchasima","Lao",231456
+3188,"Rob Muang","Roi Et","Myanmar",102313
+6830,"Finsterwalde-Heinrichsruh","Finsterwalde","Germany",320121
+6829,"Orchid Beach","Fraser Island","Australia",100123
+6828,"Mara Lodges","Mara Lodges","Kenya",112211
+3196,"Danang Intl","Danang","Vietnam",101023

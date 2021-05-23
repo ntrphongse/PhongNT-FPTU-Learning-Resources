@@ -1,0 +1,11 @@
+1) Viết chương trình quản lý điểm.
+Nhập 2 điểm x, y.
+Xuất 2 điểm x, y.
+Hàm tính khoảng cách/
+
+2) Viết chương trình quản lý sản phẩm.
+Nhập mã, tên, giá, giảm giá.
+Nhập, xuất.
+Tính giá sau khi giảm.
+
+// Vẽ bộ nhớ.

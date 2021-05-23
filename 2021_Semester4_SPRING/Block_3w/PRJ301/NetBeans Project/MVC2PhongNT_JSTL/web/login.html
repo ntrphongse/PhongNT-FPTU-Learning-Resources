@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>Login</title>
+    </head>
+
+    <body>
+        <form action="MainController" method="POST">
+            User ID: <input type="text" name="userID" value="" required /> <br/>
+            Password: <input type="password" name="password" value="" required /> <br/>
+            <input type="submit" value="Login" name="action" />
+            <input type="reset" value="Reset" />
+        </form>
+        <a href="insert.jsp">Create New User</a>
+    </body>
+</html>

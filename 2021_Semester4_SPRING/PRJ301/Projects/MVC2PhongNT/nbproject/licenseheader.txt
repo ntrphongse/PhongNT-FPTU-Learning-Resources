@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Tran Phong's Project
+<#if licenseLast??>
+${licenseLast}
+</#if>

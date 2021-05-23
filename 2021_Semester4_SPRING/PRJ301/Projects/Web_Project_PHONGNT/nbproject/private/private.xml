@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/WEB-INF/web.xml</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/viewCart.jsp</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/checkOut.jsp</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/createNewAccount.html</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/servlet/LoginServlet.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/login.jsp</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/order/OrderDAO.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/cart/CartObj.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/filter/FilterDispatch.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/servlet/CreateNewAccountServlet.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/detail.jsp</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/createNewAccount.jsp</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/servlet/CheckOutServlet.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/servlet/DetailServlet.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/accountInfo/AccountInfoDAO.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/checkOutSuccess.html</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/servlet/AddToCartServlet.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/bookStore.jsp</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/URL_LIST.dat</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/servlet/BookStoreServlet.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/welcome.jsp</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/servlet/RemoveFromCartServlet.java</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/web/NoPermission.jsp</file>
+            <file>file:/E:/FPTU/2021_Semester4_SPRING/PRJ301/Projects/Web_Project_PHONGNT/src/java/phongnt/order/OrderError.java</file>
+        </group>
+    </open-files>
+</project-private>

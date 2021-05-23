@@ -1,0 +1,7 @@
+United Kingdom@manufactured goods, fuels, chemicals, food, beverages, tabocco
+United States@agricultural products, computers, seafood
+Uruguay@beef, soybeans, cellulose, rice, wheat, wood, dairy product, wool
+Uzbekistan@energy products, cotton, gold, mineral fertilizers, ferrous and nonferrous metals, texttiles, foodstuffs, machinery, automobiles, seafood
+Vanuatu@copra, beef, cocoa, timber, kava, coffee, seafood
+Venezuela@petroleum and petroleum products, bauxite and alumium, minerals, chemicals, agricultural products
+Vietnam@clothes, shoes, electronics, seafood, crude oil, rice, coffee, wooden products, machinery

@@ -1,0 +1,2 @@
+fflush(stdin)
+getchar()

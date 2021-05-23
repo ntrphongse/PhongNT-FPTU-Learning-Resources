@@ -1,0 +1,6 @@
+Flu@influenza, zanamivir, sildenafil
+Headache@Tamiflu
+Cold@Advil, influenza
+Sore throat@risperidone
+Muscle aches and pains@Viagra
+Acne@ustekinumab, sildenafil

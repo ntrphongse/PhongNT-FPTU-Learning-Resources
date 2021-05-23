@@ -1,0 +1,2 @@
+java baicuoi.BaiCuoi
+pause

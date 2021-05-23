@@ -1,0 +1,15 @@
+body{
+    display: table;
+}
+span{
+    height:50px;
+    width: 75px;
+}
+
+div{
+    width: 30%;
+    background-color: #00ffff;
+}
+p{
+    background-color: aqua;
+}

@@ -1,0 +1,2 @@
+java AirportManagementSystem.Tester
+pause

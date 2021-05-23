@@ -1,0 +1,88 @@
+section img {
+	padding: 20px 0px 0px 0px;
+	width: 200px;
+	height: 180px;
+	margin: 0px auto;
+	border: 2px;
+    display: inline-block;
+}
+.top{
+    text-align: center;
+}
+
+section h2 {
+	color: #647eff;
+}
+header {
+	background-color: #008a7b;
+	text-align: center;
+	padding: 5px 30px 40px 30px;
+}
+header h1 {
+	text-transform: uppercase;
+	color: #f17218;
+	padding: 0px 0px 30px 0px;
+        float: left;
+}
+
+header nav a {
+  text-decoration: none;
+  background-color: #80c5bd;
+  color: rgb(0, 0, 0);
+  padding: 15px 60px 15px 60px;
+  margin: 40px;
+  border: 10px;
+  border-radius: 10px;
+  font-size: 1.1em;
+  float: right;
+}
+
+.active {
+	background-color: #ffcca4;
+}
+
+#team {
+	background-color: #ff9966;
+	display: none;
+}
+#team tr th {
+	background-color: #ff6600;
+}
+#showmore {
+	color:#647eff;
+}
+#myform {
+	background-color: #ffff99;
+	width: 670px;
+	float: right;
+	display: none;
+}
+section  table {
+	display: inline-block;
+}
+* {
+  box-sizing: border-content;
+  -moz-box-sizing: border-content;
+  -webkit-box-sizing: border-content;
+}
+
+.container {
+  width: 960px;
+  border: 1px solid #333;
+  padding: 10px;
+  overflow: auto;
+}
+
+#post {
+  width: 660px;
+  height: 150px;
+  background: #e8e8e8;
+  float: left;
+}
+
+#sidebar {
+  width: 300px;
+  height: 150px;
+  background: #b1b1b1;
+  float: right;
+}

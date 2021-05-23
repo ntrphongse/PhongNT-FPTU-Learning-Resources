@@ -1,0 +1,26 @@
+body {
+    background-color: #f2f2f2;
+    margin: 1%;
+    padding: 1%;
+}
+
+nav {
+    box-sizing: border-box;
+    border: 1px solid #06425C;
+    color: #06425C;
+    background-color: #ffffff;
+    overflow: auto;
+    padding-left: 20px;
+}
+
+nav a{
+    box-sizing: border-box;
+    display: inline-block;
+    height: 60px;
+    color: #ffffff;
+    background-color: #486B02;
+    text-decoration: none;
+    margin: 1% 5% 1% 0;
+    padding: 1% 5%;
+    border-radius: 25px;
+}

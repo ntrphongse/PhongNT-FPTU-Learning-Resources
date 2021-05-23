@@ -1,0 +1,14 @@
+C01,Trung
+C02,Nuoc giai khat
+C03,Nuoc khoang
+C04,Bot giat
+C05,Vat dung bep
+C06,Kem
+C07,Rau qua
+C08,Trai cay
+C09,Thit ca
+C10,Do dong lanh
+C11,Nhu yeu pham
+C85,Do dien tu
+C045,Sach
+C046,Ao quan

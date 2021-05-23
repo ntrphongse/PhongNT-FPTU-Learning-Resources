@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+}
+div{
+    background-color: #0000CC;
+    color: #ffffff;
+    box-sizing: border-box;
+
+    width: 40%;
+    display: block;
+    height: 300px;
+    margin: 10px;
+    border: 20px solid #000000;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
