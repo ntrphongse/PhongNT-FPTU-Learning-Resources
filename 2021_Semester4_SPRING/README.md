@@ -1,0 +1,6 @@
+- Block_3w/PRJ301: Java Web Application Development (with MVC Model)
+- IOT102: Internet of Things
+- JPD123: Japanese Elementary 1-A1.2
+- MAS291: Statistics & Probability
+- PRJ301 (Block 10w): Java Web Application Development (with MVC Model)
+- SWE201c: Introduction to Software Engineering (Coursera)
