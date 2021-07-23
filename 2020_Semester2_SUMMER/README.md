@@ -1,0 +1,5 @@
+- MAD101: Discrete Mathematics
+- NWC203: Computer Networking (Coursera)
+- OSG202: Operating Systems
+- PRO192: Object-Oriented Programming (Java OOP)
+- SSG103: Communication and In-Group Working Skills
