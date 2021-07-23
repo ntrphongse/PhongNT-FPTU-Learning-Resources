@@ -1,0 +1,7 @@
+dotnet sonarScanner begin /k:"ntrphongse_Scanner_MemberManagement_WinForm" /o:"ntranphongse" /d:sonar.login="8ca797ca44cb1f5771783e7807751272a010b242"
+
+dotnet sonarScanner begin /o:"ntranphongselaptop" /k:"ntrphongselaptop_MemberManagement_WinForm"  /d:sonar.host.url="https://sonarcloud.io" /d:sonar.login=“f287ae8e35a73257c60c9956911aede6550a9353” /d:sonar.language="cs"
+
+dotnet build Ass01Solution.sln
+
+dotnet sonarScanner end /d:sonar.login=“f287ae8e35a73257c60c9956911aede6550a9353”

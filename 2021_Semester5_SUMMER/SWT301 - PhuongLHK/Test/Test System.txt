@@ -1,0 +1,14 @@
+https://stg-trademap.reso.vn/admin/index
+
+Admin account 
+admin1/admin2/admin3 - Quản lý toàn bộ brand & store, approve brand, store
+
+Brand account
+CoopMart
+123456
+
+Brand Store Management: 30 test cases
+
+POIs Management: 30 test cases
+
+Assets Management: 30 test cases
