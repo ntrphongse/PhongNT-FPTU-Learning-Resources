@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\DataAccess.csproj</ProjectPath>
+  <FilesToAnalyzePath>E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\.sonarqube\conf\2\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\.sonarqube\out\2</OutPath>
+  <ProjectType>Product</ProjectType>
+  <TargetFramework>net5.0</TargetFramework>
+</SonarProjectConfig>

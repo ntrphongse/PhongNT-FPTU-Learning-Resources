@@ -1,0 +1,13 @@
+€
+
+&DataAccess.Repository.MemberRepositoryobjectw
+&AddMember(BusinessObject.MemberObject)MDataAccess.Repository.MemberRepository.AddMember(BusinessObject.MemberObject)M
+DeleteMember(int)8DataAccess.Repository.MemberRepository.DeleteMember(int)K
+GetMembersList()7DataAccess.Repository.MemberRepository.GetMembersList()M
+SearchMember(int)8DataAccess.Repository.MemberRepository.SearchMember(int)S
+SearchMember(string);DataAccess.Repository.MemberRepository.SearchMember(string)U
+Login(string, string)<DataAccess.Repository.MemberRepository.Login(string, string)}
+)UpdateMember(BusinessObject.MemberObject)PDataAccess.Repository.MemberRepository.UpdateMember(BusinessObject.MemberObject)ð
+bSearchMemberByCountry(string, System.Collections.Generic.IEnumerable<BusinessObject.MemberObject>)‰DataAccess.Repository.MemberRepository.SearchMemberByCountry(string, System.Collections.Generic.IEnumerable<BusinessObject.MemberObject>)ú
+gSearchMemberByCity(string, string, System.Collections.Generic.IEnumerable<BusinessObject.MemberObject>)ŽDataAccess.Repository.MemberRepository.SearchMemberByCity(string, string, System.Collections.Generic.IEnumerable<BusinessObject.MemberObject>)O
+MemberRepository()9DataAccess.Repository.MemberRepository.MemberRepository()

@@ -1,0 +1,56 @@
+
+MyStoreWinApp.Program.Main()û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs ("0*‡
+0û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs (*∏
+µ
+û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs' (>
+%0"__id*
+""±
+Æ
+û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs (?
+
+%1bool"QSystem.Windows.Forms.Application.SetHighDpiMode(System.Windows.Forms.HighDpiMode)*$""
+ System.Windows.Forms.Application*
+
+%0ç
+ä
+û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs (,
+
+%2void"5System.Windows.Forms.Application.EnableVisualStyles()*$""
+ System.Windows.Forms.Application®
+•
+û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs (@
+
+%3void"HSystem.Windows.Forms.Application.SetCompatibleTextRenderingDefault(bool)*$""
+ System.Windows.Forms.Application*
+""⁄◊
+û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs (*
+%4MyStoreWinApp.frmLogin"MyStoreWinApp.frmLoginÛ
+
+û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs  ((
+
+%5void"!MyStoreWinApp.frmLogin.frmLogin()*
+
+%4MyStoreWinApp.frmLogin∑
+¥
+û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs (+
+
+%6void"?System.Windows.Forms.Application.Run(System.Windows.Forms.Form)*$""
+ System.Windows.Forms.Application*
+
+%4MyStoreWinApp.frmLogin*
+1*›
+1û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs	 (	"∂
+û
+ìE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\Program.cs (	
+implicit returnB"
+MyStoreWinApp.Program

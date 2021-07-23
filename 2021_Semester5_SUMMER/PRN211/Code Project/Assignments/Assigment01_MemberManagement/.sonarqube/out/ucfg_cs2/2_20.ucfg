@@ -1,0 +1,38 @@
+
+*DataAccess.MemberDAO.Login(string, string)ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csà à(!"0*©
+
+0ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csä ã(†
+ù
+ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csä" ä()(
+%0"System.Collections.Generic.List<T>"__id*I*G
+DataAccess.MemberDAO"-
+members"System.Collections.Generic.List<T>ñ
+ì
+ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csä" ä(w!
+%1BusinessObject.MemberObject"|System.Linq.Enumerable.SingleOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%0"System.Collections.Generic.List<T>*
+""˜
+Ù
+ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csä ä(w%
+memberBusinessObject.MemberObject"__id*#
+!
+%1BusinessObject.MemberObject"À
+ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csã ã('
+%
+memberBusinessObject.MemberObject*ﬂ
+1ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.cså	 å(	"∑
+ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.cså å(	
+implicit return:
+Emailstring:
+PasswordstringB
+DataAccess.MemberDAO

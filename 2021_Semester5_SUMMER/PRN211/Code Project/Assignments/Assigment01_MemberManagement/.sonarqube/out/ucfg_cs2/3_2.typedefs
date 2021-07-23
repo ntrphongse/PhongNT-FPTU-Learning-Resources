@@ -1,0 +1,9 @@
+Ú
+MyStoreWinApp.frmLoginSystem.Windows.Forms.Form%System.Windows.Forms.ContainerControl&System.Windows.Forms.ScrollableControlSystem.Windows.Forms.ControlSystem.ComponentModel.ComponentSystem.MarshalByRefObjectobject/
+
+frmLogin()!MyStoreWinApp.frmLogin.frmLogin()i
+'frmLogin_Load(object, System.EventArgs)>MyStoreWinApp.frmLogin.frmLogin_Load(object, System.EventArgs)k
+(btnLogin_Click(object, System.EventArgs)?MyStoreWinApp.frmLogin.btnLogin_Click(object, System.EventArgs)m
+)btnCancel_Click(object, System.EventArgs)@MyStoreWinApp.frmLogin.btnCancel_Click(object, System.EventArgs)5
+Dispose(bool)$MyStoreWinApp.frmLogin.Dispose(bool)E
+InitializeComponent(),MyStoreWinApp.frmLogin.InitializeComponent()

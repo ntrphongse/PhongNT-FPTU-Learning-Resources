@@ -1,0 +1,46 @@
+
+%BusinessObject.MemberObject.Email.set§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs ("0*»
+0§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs (,ì
+ê
+§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs (-
+
+%0bool")DataValidation.Validation.IsEmail(string)*"
+DataValidation.Validation*
+
+valuestring*
+1
+2*ß
+1§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs (!ı
+Ú
+§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs (!0
+BusinessObject.MemberObject"
+emailstring"__id*
+
+valuestring*
+3*ú
+2§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs (B‘—
+§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs (C
+%1System.Exception"System.Exceptionì
+ê
+§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs ('
+
+%2void"#System.Exception.Exception(string?)*
+
+%1System.Exception*
+Wrong format for Email!!*
+3*È
+3§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs ("º
+§
+ôE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\BusinessObject\MemberObject.cs (
+implicit return:
+valuestringB
+BusinessObject.MemberObject

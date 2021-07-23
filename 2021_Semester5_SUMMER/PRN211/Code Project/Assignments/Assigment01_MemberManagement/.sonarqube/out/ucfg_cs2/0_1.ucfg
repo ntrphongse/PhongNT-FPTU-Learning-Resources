@@ -1,0 +1,58 @@
+
+)DataValidation.Validation.IsEmail(string)¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs (""0*œ
+0¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs
+ (Æ
+Ã
+¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs
+ 
+(
+resultbool"__id*
+""¨¥
+¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs (8A
+%0;System.ComponentModel.DataAnnotations.EmailAddressAttribute";System.ComponentModel.DataAnnotations.EmailAddressAttributeÎ
+Ë
+¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs! (6
+
+%1void"SSystem.ComponentModel.DataAnnotations.EmailAddressAttribute.EmailAddressAttribute()*C
+A
+%0;System.ComponentModel.DataAnnotations.EmailAddressAttribute¾
+»
+¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs (8I
+
+CheckEmail;System.ComponentModel.DataAnnotations.EmailAddressAttribute"__id*C
+A
+%0;System.ComponentModel.DataAnnotations.EmailAddressAttributeâ
+ß
+¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs (.
+
+%2bool"LSystem.ComponentModel.DataAnnotations.EmailAddressAttribute.IsValid(object?)*K
+I
+
+CheckEmail;System.ComponentModel.DataAnnotations.EmailAddressAttribute*
+
+EmailstringÌ
+É
+¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs (.
+resultbool"__id*
+
+
+%2bool"·
+¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs (
+
+resultbool*å
+1¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs	 (	"º
+¢
+—E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataValidation\Validation.cs (	
+implicit return:
+EmailstringB"
+DataValidation.Validation

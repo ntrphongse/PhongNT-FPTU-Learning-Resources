@@ -1,0 +1,72 @@
+
+|DataAccess.MemberDAO.FilterMemberByCity(string, string, System.Collections.Generic.IEnumerable<BusinessObject.MemberObject>)Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csé) é(;"0*ö
+0Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csë& ð(!î
+ë
+Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csë& ë(99
+searchResult)System.Collections.Generic.IEnumerable<T>"__id*
+""î
+ë
+Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csí ï(,9
+memberSearch)System.Collections.Generic.IEnumerable<T>"__id*
+""ä
+á
+Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csð ð("
+
+%0bool"string.Equals(string?)*
+
+citystring*
+All*
+1
+2*ˆ
+1Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csò õ((î
+ë
+Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csò ô(,9
+memberSearch)System.Collections.Generic.IEnumerable<T>"__id*
+""ç
+ä
+Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csõ õ()
+
+%1bool"string.Equals(string?)*
+
+countrystring*
+All*
+3
+2*›
+3Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.cs÷ ø(0î
+ë
+Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.cs÷ ø(09
+memberSearch)System.Collections.Generic.IEnumerable<T>"__id*
+""*
+2*­
+2Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csû ý(£
+ 
+Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csû û('9
+searchResult)System.Collections.Generic.IEnumerable<T>"__id*;
+9
+memberSearch)System.Collections.Generic.IEnumerable<T>"ß
+Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csý ý( ;
+9
+searchResult)System.Collections.Generic.IEnumerable<T>*ß
+4Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csþ	 þ(	"·
+Ÿ
+’E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csþ þ(	
+implicit return:
+countrystring:
+citystring:7
+
+searchList)System.Collections.Generic.IEnumerable<T>B
+DataAccess.MemberDAO

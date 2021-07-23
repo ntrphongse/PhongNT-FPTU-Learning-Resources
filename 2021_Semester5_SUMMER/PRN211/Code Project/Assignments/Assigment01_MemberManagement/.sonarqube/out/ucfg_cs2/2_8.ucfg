@@ -1,0 +1,32 @@
+
+<DataAccess.Repository.MemberRepository.Login(string, string)¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (!"0*î
+0¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (;Ž
+‹
+¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (%
+%0DataAccess.MemberDAO"!DataAccess.MemberDAO.Instance.get*"
+DataAccess.MemberDAOË
+È
+¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (<!
+%1BusinessObject.MemberObject"*DataAccess.MemberDAO.Login(string, string)*
+
+%0DataAccess.MemberDAO*
+
+Emailstring*
+
+Passwordstring"×
+¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (=#
+!
+%1BusinessObject.MemberObject*ÿ
+1¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs 	  (	"Ç
+¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs   (	
+implicit return:
+Emailstring:
+PasswordstringB*(
+&DataAccess.Repository.MemberRepository

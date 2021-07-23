@@ -1,0 +1,7 @@
+organization=ntranphongselaptop
+projectKey=ntrphongselaptop_MemberManagement_WinForm
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=ntrphongselaptop_MemberManagement_WinForm
+ceTaskId=AXqOwW9O97rUou7evfhv
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqOwW9O97rUou7evfhv

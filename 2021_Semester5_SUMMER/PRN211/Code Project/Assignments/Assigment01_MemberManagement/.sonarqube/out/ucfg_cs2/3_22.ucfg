@@ -1,0 +1,72 @@
+
+0MyStoreWinApp.frmMemberManagement.LoadFullList()¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs— —(!"0*€
+0¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs™ ¡(%÷
+ô
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs™ ™(5#
+!MyStoreWinApp.frmMemberManagement"
+searchbool"__id*
+""÷
+ô
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csš š(5#
+!MyStoreWinApp.frmMemberManagement"
+filterbool"__id*
+""Í
+Ê
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs› ›(*-
+%0'DataAccess.Repository.IMemberRepository"__id*d*b#
+!MyStoreWinApp.frmMemberManagement";
+memberRepository'DataAccess.Repository.IMemberRepositoryàÝ
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs› ›(;/
+%1)System.Collections.Generic.IEnumerable<T>"8DataAccess.Repository.IMemberRepository.GetMembersList()*/
+-
+%0'DataAccess.Repository.IMemberRepository2GetMembersList()¡
+ž
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs› ›(;4
+members)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%1)System.Collections.Generic.IEnumerable<T>ø
+õ
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csœ ž(*6
+
+memberList(System.Linq.IOrderedEnumerable<TElement>"__id*
+""Ò
+Ï
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csŸ Ÿ(#^#
+!MyStoreWinApp.frmMemberManagement"7
+
+dataSource)System.Collections.Generic.IEnumerable<T>"__id*8
+6
+
+memberList(System.Linq.IOrderedEnumerable<TElement>Ô
+Ñ
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs   (%`#
+!MyStoreWinApp.frmMemberManagement"9
+searchResult)System.Collections.Generic.IEnumerable<T>"__id*8
+6
+
+memberList(System.Linq.IOrderedEnumerable<TElement>Ô
+Ñ
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs¡ ¡(%`#
+!MyStoreWinApp.frmMemberManagement"9
+filterResult)System.Collections.Generic.IEnumerable<T>"__id*8
+6
+
+memberList(System.Linq.IOrderedEnumerable<TElement>*
+1*ù
+1¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs¢	 ¢(	"Ä
+¬
+ŸE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs¢ ¢(	
+implicit returnB%#
+!MyStoreWinApp.frmMemberManagement

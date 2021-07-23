@@ -1,0 +1,16 @@
+‘
+
+MyStoreWinApp.frmMemberDetailsSystem.Windows.Forms.Form%System.Windows.Forms.ContainerControl&System.Windows.Forms.ScrollableControlSystem.Windows.Forms.ControlSystem.ComponentModel.ComponentSystem.MarshalByRefObjectobjectG
+frmMemberDetails()1MyStoreWinApp.frmMemberDetails.frmMemberDetails()Å
+/frmMemberDetails_Load(object, System.EventArgs)NMyStoreWinApp.frmMemberDetails.frmMemberDetails_Load(object, System.EventArgs)u
+)btnUpdate_Click(object, System.EventArgs)HMyStoreWinApp.frmMemberDetails.btnUpdate_Click(object, System.EventArgs)o
+&btnAdd_Click(object, System.EventArgs)EMyStoreWinApp.frmMemberDetails.btnAdd_Click(object, System.EventArgs)u
+)btnCancel_Click(object, System.EventArgs)HMyStoreWinApp.frmMemberDetails.btnCancel_Click(object, System.EventArgs)=
+Dispose(bool),MyStoreWinApp.frmMemberDetails.Dispose(bool)M
+InitializeComponent()4MyStoreWinApp.frmMemberDetails.InitializeComponent()G
+InsertOrUpdate.get1MyStoreWinApp.frmMemberDetails.InsertOrUpdate.getG
+InsertOrUpdate.set1MyStoreWinApp.frmMemberDetails.InsertOrUpdate.setK
+memberRepository.get3MyStoreWinApp.frmMemberDetails.memberRepository.getK
+memberRepository.set3MyStoreWinApp.frmMemberDetails.memberRepository.set?
+memberInfo.get-MyStoreWinApp.frmMemberDetails.memberInfo.get?
+memberInfo.set-MyStoreWinApp.frmMemberDetails.memberInfo.set

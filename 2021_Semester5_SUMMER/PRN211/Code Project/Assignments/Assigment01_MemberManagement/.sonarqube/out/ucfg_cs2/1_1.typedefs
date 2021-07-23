@@ -1,0 +1,15 @@
+ƒ
+BusinessObject.MemberObjectobject<
+MemberObject()*BusinessObject.MemberObject.MemberObject()8
+MemberID.get(BusinessObject.MemberObject.MemberID.get8
+MemberID.set(BusinessObject.MemberObject.MemberID.set<
+MemberName.get*BusinessObject.MemberObject.MemberName.get<
+MemberName.set*BusinessObject.MemberObject.MemberName.set2
+	Email.get%BusinessObject.MemberObject.Email.get2
+	Email.set%BusinessObject.MemberObject.Email.set8
+Password.get(BusinessObject.MemberObject.Password.get8
+Password.set(BusinessObject.MemberObject.Password.set0
+City.get$BusinessObject.MemberObject.City.get0
+City.set$BusinessObject.MemberObject.City.set6
+Country.get'BusinessObject.MemberObject.Country.get6
+Country.set'BusinessObject.MemberObject.Country.set

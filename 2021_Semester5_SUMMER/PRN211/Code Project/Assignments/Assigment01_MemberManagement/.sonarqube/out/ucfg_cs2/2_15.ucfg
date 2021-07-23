@@ -1,0 +1,30 @@
+
+#DataAccess.MemberDAO.GetMember(int)ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csé é(%"0*´
+0ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csê ê(H†
+ù
+ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csê ê((
+%0"System.Collections.Generic.List<T>"__id*I*G
+DataAccess.MemberDAO"-
+members"System.Collections.Generic.List<T>ñ
+ì
+ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csê ê(I!
+%1BusinessObject.MemberObject"|System.Linq.Enumerable.SingleOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%0"System.Collections.Generic.List<T>*
+"""«
+ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csê ê(J#
+!
+%1BusinessObject.MemberObject*ﬂ
+1ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csë	 ë(	"∑
+ü
+íE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\MemberDAO.csë ë(	
+implicit return:
+MemberIdintB
+DataAccess.MemberDAO

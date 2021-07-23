@@ -1,0 +1,42 @@
+
+!MyStoreWinApp.frmLogin.frmLogin()Ÿ
+”E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmLogin.cs ("1*Ï
+1Ÿ
+”E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmLogin.cs	 (	ûø
+Ÿ
+”E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmLogin.cs- (C,
+%0&DataAccess.Repository.MemberRepository"&DataAccess.Repository.MemberRepositoryœ
+™
+Ÿ
+”E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmLogin.cs1 (A
+
+%1void"9DataAccess.Repository.MemberRepository.MemberRepository()*.
+,
+%0&DataAccess.Repository.MemberRepository´
+±
+Ÿ
+”E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmLogin.cs (CW
+MyStoreWinApp.frmLogin";
+memberRepository'DataAccess.Repository.IMemberRepository"__id*.
+,
+%0&DataAccess.Repository.MemberRepositoryO
+M
+
+%2void" System.Windows.Forms.Form.Form()*
+System.Windows.Forms.Form*
+0*¨
+0Ÿ
+”E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmLogin.cs (!û
+ø
+Ÿ
+”E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmLogin.cs (!
+
+%3void",MyStoreWinApp.frmLogin.InitializeComponent()*
+MyStoreWinApp.frmLogin*
+2*ß
+2Ÿ
+”E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmLogin.cs	 (	"·
+Ÿ
+”E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmLogin.cs (	
+implicit returnB
+MyStoreWinApp.frmLogin

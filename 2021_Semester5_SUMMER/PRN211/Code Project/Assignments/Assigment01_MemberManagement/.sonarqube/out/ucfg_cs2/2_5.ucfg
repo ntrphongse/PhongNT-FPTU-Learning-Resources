@@ -1,0 +1,28 @@
+
+8DataAccess.Repository.MemberRepository.SearchMember(int)¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs) (5"0*å
+0¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (5Ž
+‹
+¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (%
+%0DataAccess.MemberDAO"!DataAccess.MemberDAO.Instance.get*"
+DataAccess.MemberDAO´
+±
+¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (6/
+%1)System.Collections.Generic.IEnumerable<T>"&DataAccess.MemberDAO.SearchMember(int)*
+
+%0DataAccess.MemberDAO*
+"""å
+¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (71
+/
+%1)System.Collections.Generic.IEnumerable<T>*ÿ
+1¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs	 (	"Ç
+¯
+¤E:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\DataAccess\Repository\MemberRepository.cs (	
+implicit return:	
+idintB*(
+&DataAccess.Repository.MemberRepository

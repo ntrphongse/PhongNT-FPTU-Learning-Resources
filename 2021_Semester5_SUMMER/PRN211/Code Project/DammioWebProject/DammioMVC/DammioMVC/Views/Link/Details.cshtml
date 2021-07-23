@@ -1,0 +1,51 @@
+﻿@model DammioMVC.Models.Link
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Link</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LinkName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LinkName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LinkURL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LinkURL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LinkDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LinkDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.CategoryName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.LinkID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

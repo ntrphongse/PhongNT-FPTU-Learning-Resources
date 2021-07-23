@@ -1,0 +1,25 @@
+﻿@model MyWebApp.Models.HomeModel;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h3>Razor Syntax</h3>
+@{
+    var greeting = "Welcome to ASP.NET MVC Core";
+    var weekDay = DateTime.Now.DayOfWeek;
+            }
+@{ var ISBNNo = "978-1-80056-718-4"; }
+@{ 
+    var pro = new
+    {
+        ProductID = 1,
+        ProductName = "Coffee"
+    };
+    <p>Product ID: @pro.ProductID</p>
+    <p>Product Name: @pro.ProductName</p>
+    <p>@greeting</p>
+    <p>@weekDay</p>
+    <p>ISBN@ISBNNo</p>
+    <p>ISBN@(ISBNNo)</p>
+}

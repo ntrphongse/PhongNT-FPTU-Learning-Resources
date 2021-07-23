@@ -1,0 +1,128 @@
+
+wMyStoreWinApp.frmMemberManagement.dgvMemberList_CellDoubleClick(object, System.Windows.Forms.DataGridViewCellEventArgs)¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csŸ Ÿ(2"0*ï
+0¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs€ Â(@Ø
+¨
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs€" €(1!
+%0BusinessObject.MemberObject"1MyStoreWinApp.frmMemberManagement.GetMemberInfo()*%#
+!MyStoreWinApp.frmMemberManagementÑ
+Å
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs€ €(1%
+memberBusinessObject.MemberObject"__id*#
+!
+%0BusinessObject.MemberObject¯ı
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs›0 „($
+%1MyStoreWinApp.frmMemberDetails"MyStoreWinApp.frmMemberDetailsô
+ñ
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs›4 ›(D
+
+%2void"1MyStoreWinApp.frmMemberDetails.frmMemberDetails()*&
+$
+%1MyStoreWinApp.frmMemberDetailsÕ
+ 
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csﬂ# ﬂ(8-
+%3'DataAccess.Repository.IMemberRepository"__id*d*b#
+!MyStoreWinApp.frmMemberManagement";
+memberRepository'DataAccess.Repository.IMemberRepositoryÔ
+Ï
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csﬂ ﬂ(8-
+%4'DataAccess.Repository.IMemberRepository"3MyStoreWinApp.frmMemberDetails.memberRepository.set*&
+$
+%1MyStoreWinApp.frmMemberDetails*/
+-
+%3'DataAccess.Repository.IMemberRepository°
+û
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs‡ ‡(&
+
+%5bool"1MyStoreWinApp.frmMemberDetails.InsertOrUpdate.set*&
+$
+%1MyStoreWinApp.frmMemberDetails*
+""’
+“
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs· ·(#!
+%6BusinessObject.MemberObject"-MyStoreWinApp.frmMemberDetails.memberInfo.set*&
+$
+%1MyStoreWinApp.frmMemberDetails*'
+%
+memberBusinessObject.MemberObjectÆ´
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs‚ ‚(+
+%7string""System.Windows.Forms.Form.Text.set*&
+$
+%1MyStoreWinApp.frmMemberDetails*
+Update member info2Text.setî
+ë
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.cs› „(2
+frmMemberDetailsMyStoreWinApp.frmMemberDetails"__id*&
+$
+%1MyStoreWinApp.frmMemberDetailsπ
+∂
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÂ Â(-'
+%8!System.Windows.Forms.DialogResult"&System.Windows.Forms.Form.ShowDialog()*4
+2
+frmMemberDetailsMyStoreWinApp.frmMemberDetails∆
+√
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÂ1 Â(@
+%9"__id*
+""*
+1
+2*∑
+1¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÁ Í(2ò
+ï
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÁ Á(
+%10void"0MyStoreWinApp.frmMemberManagement.LoadFullList()*%#
+!MyStoreWinApp.frmMemberManagementö
+ó
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÈ È( 
+%11void"2MyStoreWinApp.frmMemberManagement.LoadMemberList()*%#
+!MyStoreWinApp.frmMemberManagement∫
+∑
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÍ Í()
+%12"System.Windows.Forms.BindingSource"__id*U*S#
+!MyStoreWinApp.frmMemberManagement",
+source"System.Windows.Forms.BindingSource∫
+∑
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÍ" Í(()
+%13"System.Windows.Forms.BindingSource"__id*U*S#
+!MyStoreWinApp.frmMemberManagement",
+source"System.Windows.Forms.BindingSource§°
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÍ" Í(.
+
+%14int",System.Windows.Forms.BindingSource.Count.get*+
+)
+%13"System.Windows.Forms.BindingSource2	Count.get§
+°
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÍ Í(2
+
+%15int"/System.Windows.Forms.BindingSource.Position.set*+
+)
+%12"System.Windows.Forms.BindingSource*
+""*
+2*˘
+2¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÏ	 Ï(	"ƒ
+¨
+üE:\FPTU\PhongNT-FPTU-Learning-Resources\2021_Semester5_SUMMER\PRN211\Code Project\Assignments\Assigment01_MemberManagement\MyStoreWinApp\frmMemberManagement.csÏ Ï(	
+implicit return:
+senderobject:3
+e.System.Windows.Forms.DataGridViewCellEventArgsB%#
+!MyStoreWinApp.frmMemberManagement

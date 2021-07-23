@@ -1,0 +1,17 @@
+ˆ
+
+DataAccess.MemberDAOobject=
+GetDefaultMember()'DataAccess.MemberDAO.GetDefaultMember()/
+MemberDAO() DataAccess.MemberDAO.MemberDAO()C
+Login(string, string)*DataAccess.MemberDAO.Login(string, string)5
+GetMember(int)#DataAccess.MemberDAO.GetMember(int);
+GetMember(string)&DataAccess.MemberDAO.GetMember(string)e
+&AddMember(BusinessObject.MemberObject);DataAccess.MemberDAO.AddMember(BusinessObject.MemberObject)_
+#Update(BusinessObject.MemberObject)8DataAccess.MemberDAO.Update(BusinessObject.MemberObject)/
+Delete(int) DataAccess.MemberDAO.Delete(int);
+SearchMember(int)&DataAccess.MemberDAO.SearchMember(int)A
+SearchMember(string))DataAccess.MemberDAO.SearchMember(string)Ý
+bFilterMemberByCountry(string, System.Collections.Generic.IEnumerable<BusinessObject.MemberObject>)wDataAccess.MemberDAO.FilterMemberByCountry(string, System.Collections.Generic.IEnumerable<BusinessObject.MemberObject>)ç
+gFilterMemberByCity(string, string, System.Collections.Generic.IEnumerable<BusinessObject.MemberObject>)|DataAccess.MemberDAO.FilterMemberByCity(string, string, System.Collections.Generic.IEnumerable<BusinessObject.MemberObject>)=
+GetMembersList.get'DataAccess.MemberDAO.GetMembersList.get=
+GetMembersList.set'DataAccess.MemberDAO.GetMembersList.set
