@@ -1,0 +1,15 @@
+SRS - Để thực thi được chức năng thì dữ liệu đầu vào là gì, kết quả đầu ra là gì
+ERD
+Function: WHAT
+
+
+Chung:
+- Kiến trúc tổng thể : MVC2
+- Dữ liệu : ERD, logic, physical
+- UX/UI
+Riêng:
+- Mỗi thành viên thực hiện nhóm các chức năng liên quan 
+
+Function : WHAT làm cái gì (không nghĩ tới làm ntn không HOW)
+		+ cần dữ liệu gì 
+		+ trả về cái gì
