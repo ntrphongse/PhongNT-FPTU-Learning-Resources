@@ -1,3 +1,0 @@
-server: happyprogramming.database.windows.net
-admin: happyprogramming_admin
-password: Team3@SWP_FPTU
