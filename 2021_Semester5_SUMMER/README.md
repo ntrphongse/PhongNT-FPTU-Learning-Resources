@@ -1,0 +1,4 @@
+- PRN211: Basic Cross-Platform Application Programming With .NET (Desktop App with Windows Form, Web App with ASP.NET Core 5, API)
+- SWP391: Software development project
+- SWR302: Software Requirement
+- SWT301: Software Testing
