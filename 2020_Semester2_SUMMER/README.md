@@ -1,5 +1,5 @@
-- MAD101: Discrete Mathematics
-- NWC203: Computer Networking (Coursera)
-- OSG202: Operating Systems
-- PRO192: Object-Oriented Programming (Java OOP)
-- SSG103: Communication and In-Group Working Skills
+- MAD101: Discrete Mathematics - Mr. VinhDP
+- NWC203: Computer Networking (Coursera) - Mr. DinhMH
+- OSG202: Operating Systems - Mr. DinhMH
+- PRO192: Object-Oriented Programming (Java OOP) - **Ms. VanTTN**
+- SSG103: Communication and In-Group Working Skills - Mr. DungNQ
