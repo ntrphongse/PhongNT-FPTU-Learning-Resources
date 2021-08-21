@@ -1,5 +1,5 @@
-- CSD201: Data Structures and Algorithms
-- DBI202: Databases Systems
-- JPD111: Japanese Elementary 1-A1.1
-- LAB211: OOP with Java Lab
-- WEB201c: Web Design (Coursera)
+- CSD201: Data Structures and Algorithms - **Mr. SuTV**
+- DBI202: Databases Systems - Mr. TungH4
+- JPD111: Japanese Elementary 1-A1.1 - Ms. KieuTA
+- LAB211: OOP with Java Lab - Mr. NguyenTT
+- WEB201c: Web Design (Coursera) - Mr. ThongNT
