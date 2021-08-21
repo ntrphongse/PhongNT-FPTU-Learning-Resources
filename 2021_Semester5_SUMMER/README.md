@@ -1,6 +1,6 @@
-- PRN211: Basic Cross-Platform Application Programming With .NET (Desktop App with Windows Form, Web App with ASP.NET Core 5, API)
+- PRN211: Basic Cross-Platform Application Programming With .NET (Desktop App with Windows Form, Web App with ASP.NET Core 5, API) - **Mr. KiemHH**
   - **Group Project:** [Clothes Shopping](https://github.com/ntrphongse/ClothesShopping_PRN211)
-- SWP391: Software development project
+- SWP391: Software development project - Mr. TaiNT
   - **Group Project:** [Happy Programming](https://github.com/FPTUniversityCodingKinship/HappyProgramming)
-- SWR302: Software Requirement
-- SWT301: Software Testing
+- SWR302: Software Requirement - Mr. BinhNN7
+- SWT301: Software Testing - **Mr. PhuongLHK**
